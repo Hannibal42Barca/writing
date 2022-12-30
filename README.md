@@ -1,0 +1,2 @@
+# writing
+blog style writing
